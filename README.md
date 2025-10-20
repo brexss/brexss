@@ -2,16 +2,20 @@
 <p align="center"> Soy un </p>
 <p align="center"> <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=700&height=100&lines=Estudiante+de+Analisis+y+desarrollo+de+software,;Autodidacta,;Diseñador+de+paginas+webs,;Full+stack,;Un+placer..<3"></a> </p>
 
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 40px>  </picture> lenguajes y herramientas
-<p align="center">
+<div>
+<h3> <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" align="left" width = 40px>  </picture> lenguajes y herramientas</h3>
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,py,css,flask,github,html,mysql,vscode,tailwind,&perline=14" />
   </a>
 </p>
+</div>
+
+<div aling="right">
+<h3> <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contactame<h3/>
+</div>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
